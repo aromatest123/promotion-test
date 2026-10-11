@@ -1,0 +1,41 @@
+{
+  "_note": "Promo-eligible items from the Aroma Mooresville menu. price = regular menu price (USD). img = asset in ../assets.",
+  "items": {
+    "chk_dum_biryani":  {"name": "Hyderabadi Chicken Dum Biryani", "price": 17, "img": "biryani", "veg": false},
+    "goat_dum_biryani": {"name": "Hyderabadi Goat Dum Biryani", "price": 19, "img": "biryani", "veg": false},
+    "c65_biryani":      {"name": "Chicken 65 Biryani", "price": 17, "img": "biryani", "veg": false},
+    "vjw_biryani":      {"name": "Vijayawada Chicken Biryani", "price": 17, "img": "biryani", "veg": false},
+    "paneer_biryani":   {"name": "Paneer Biryani", "price": 17, "img": "biryani", "veg": true},
+    "veg_dum_biryani":  {"name": "Hyderabadi Veg Dum Biryani", "price": 16, "img": "biryani", "veg": true},
+
+    "mango_lassi":   {"name": "Mango Lassi", "price": 6, "img": "mango_lassi", "veg": true},
+    "masala_chai":   {"name": "Masala Chai", "price": 3.5, "img": "chai", "veg": true},
+    "soft_drink":    {"name": "Soft Drink", "price": 3, "img": "coke", "veg": true},
+
+    "lolli_guntur":  {"name": "Guntur Chicken Lollipop", "price": 16, "img": "lollipop", "veg": false, "spicy": true},
+    "lolli_tandoori":{"name": "Tandoori Chicken Lollipop", "price": 16, "img": "lollipop", "veg": false},
+    "lolli_mughalai":{"name": "Mughalai Chicken Lollipop", "price": 16, "img": "lollipop", "veg": false},
+    "lolli_vjw":     {"name": "Vijayawada Chicken Lollipop", "price": 16, "img": "lollipop", "veg": false, "spicy": true},
+    "lolli_chilli":  {"name": "Chilli Chicken Lollipop", "price": 16, "img": "lollipop", "veg": false},
+    "peri_fries":    {"name": "Peri-Peri Fries", "price": 6, "img": null, "veg": true},
+
+    "tandoori_chicken": {"name": "Tandoori Chicken", "price": 17, "img": "tandoori_chicken", "veg": false},
+    "chicken_tikka":    {"name": "Chicken Tikka", "price": 17, "img": "tandoori_chicken", "veg": false},
+    "malai_kabab":      {"name": "Malai Chicken Kabab", "price": 17, "img": "tandoori_chicken", "veg": false},
+    "paneer_tikka":     {"name": "Paneer Tikka", "price": 17, "img": "paneer_tikka", "veg": true},
+    "butter_naan":      {"name": "Butter Naan", "price": 4, "img": "naan", "veg": true},
+    "garlic_naan":      {"name": "Garlic Naan", "price": 4.5, "img": "naan", "veg": true},
+    "bread_basket":     {"name": "Bread Basket", "price": 15, "img": "naan", "veg": true},
+
+    "entree_choice":  {"name": "Chicken or Paneer Entrée", "price": 17, "img": "curry_rice", "veg": false},
+    "appetizer_8oz":  {"name": "8 oz Appetizer", "price": 8, "img": "chicken65", "veg": false},
+    "gulab_jamun":    {"name": "Gulab Jamun", "price": 6, "img": "gulab_jamun", "veg": true},
+    "appetizer_any":  {"name": "Appetizer", "price": 16, "img": "chicken65", "veg": false},
+
+    "dosa":        {"name": "Dosa", "price": 12, "img": "cone_dosa", "veg": true},
+    "idly":        {"name": "Idly with Sambar", "price": 8, "img": null, "veg": true},
+    "pav_bhaji":   {"name": "Pav Bhaji", "price": 14, "img": "pav_bhaji", "veg": true},
+    "panipuri":    {"name": "Pani Puri", "price": 9, "img": "panipuri", "veg": true},
+    "vada_pav":    {"name": "Vada Pav", "price": 12, "img": "vada_pav", "veg": true}
+  }
+}
